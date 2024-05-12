@@ -1,6 +1,5 @@
 # Deep_Density_Hybrid_Sampling-DDHS-
-
-## Learning From Imbalanced Data With Deep Density Hybrid Sampling (IEEE 2022) [article link](https://ieeexplore.ieee.org/document/9723474)
+Learning From Imbalanced Data With Deep Density Hybrid Sampling (IEEE 2022) [article link](https://ieeexplore.ieee.org/document/9723474) </br>
 ### Overview
 - Autoencoder 기반의 Embedding Network 를 활용하여 Hybrid Sampling
 - Imbalanced Dataset 에 대한 Sampling 후 Linear SVM/Regression 성능 평가 시 SOTA 달성
