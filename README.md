@@ -8,6 +8,6 @@ Learning From Imbalanced Data With Deep Density Hybrid Sampling (IEEE 2022) [art
 - Density-based Filtering 으로 Minority Class 의 High-Quality
 
 ### High-Dimensional Problem 해결
-![Uploading image.png…]()
+![image](https://github.com/ski-sim/Deep_Density_Hybrid_Sampling-DDHS-/assets/121158156/059decc0-c7d6-4bd5-9b7a-fdf3bc49689b)
 
 ### 세 가지 Loss Term (CE, Center, Reconstruction)
