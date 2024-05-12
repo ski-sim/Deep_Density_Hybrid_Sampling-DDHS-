@@ -6,3 +6,8 @@ Learning From Imbalanced Data With Deep Density Hybrid Sampling (IEEE 2022) [art
 - Euclidean Distance 를 활용하는 SMOTE 기반의 Over-sampling 방법론의 최대 단점인 High-Dimensional Problem 해결
 - 세 가지 Loss Term (CE, Center, Reconstruction) 을 활용하여 Sampling 성능 향상
 - Density-based Filtering 으로 Minority Class 의 High-Quality
+
+### High-Dimensional Problem 해결
+![Uploading image.png…]()
+
+### 세 가지 Loss Term (CE, Center, Reconstruction)
