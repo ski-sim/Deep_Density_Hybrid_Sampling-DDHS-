@@ -9,5 +9,8 @@ Learning From Imbalanced Data With Deep Density Hybrid Sampling (IEEE 2022) [art
 
 ### High-Dimensional Problem 해결
 ![image](https://github.com/ski-sim/Deep_Density_Hybrid_Sampling-DDHS-/assets/121158156/059decc0-c7d6-4bd5-9b7a-fdf3bc49689b)
+auto-encoder를 이용해 저차원으로 매핑 후 샘플링
+-> Reconstruction loss 발생
 
 ### 세 가지 Loss Term (CE, Center, Reconstruction)
+![image](https://github.com/ski-sim/Deep_Density_Hybrid_Sampling-DDHS-/assets/121158156/d242cae6-e293-424f-b385-81f71d81bf33)
